@@ -10,4 +10,4 @@ A csv dataset is present for the example notebook.
 **NOTES**: 
 - most of the code comments are in Italian but a lot of the snippets are self explanatory
 - the example is taken from the exam of "Big Data Analysis" done at the University of Modena and Reggio Emilia
-- the code is not mine and coming from various sources, therefore I take no credit to it and this is all under the MIT license
+- the majority of this code is not mine and comes from various sources, therefore I take no credit to it and you are free to use it as is
