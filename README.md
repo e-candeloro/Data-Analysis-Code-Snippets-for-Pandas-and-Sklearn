@@ -4,7 +4,7 @@ In this repository there are two Python notebooks:
 - one named 'Data Analysis Snippets" containing useful code I found/wrote to help me with using Pandas and Sklearn
 - one name 'Data Analysis + ML classification example' where I used Pandas and Sklearn to solve a data analysis and classification/evaluation problem
 
-These notebooks are useful to understand how to load, understand, clean and classify data.
+These notebooks are useful to learn how to load, understand, clean and classify data.
 A csv dataset is present for the example notebook.
 
 **NOTES**: 
