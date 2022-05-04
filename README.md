@@ -1,7 +1,7 @@
 # Data Analysis Snippets and Example with Pandas and Sklearn
 
 In this repository there are two Python notebooks:
-- one named 'Data Analysis Snippets" containing useful code I found/wrote to help me with using Pandas and Sklearn
+- one named 'Data Analysis Snippets" containing useful code I found/wrote to help with using Pandas and Sklearn
 - one name 'Data Analysis + ML classification example' where I used Pandas and Sklearn to solve a data analysis and classification/evaluation problem
 
 These notebooks are useful to learn how to load, understand, clean and classify data.
